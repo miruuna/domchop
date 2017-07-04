@@ -1,3 +1,4 @@
 
 
-Category    PDB ID   Method used
+Category - PDB ID - Method used
+Ambiguous domain boundaries - 4ncdA - reduce the fragment length at the end of each domain
